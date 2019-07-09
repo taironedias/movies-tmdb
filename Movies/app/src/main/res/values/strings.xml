@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="tab_text_1">Ação</string>
+    <string name="tab_text_2">Drama</string>
+    <string name="tab_text_3">Fantasia</string>
+    <string name="tab_text_4">Ficção</string>
+
+    <string name="overview">Descrição</string>
+    <string name="title_activity_overview">Descrição Activity</string>
+    <string name="search">Pesquisar</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="overview">Overview</string>
+    <string name="search">Search</string>
+    <string name="tab_text_1">Action</string>
+    <string name="tab_text_2">Drama</string>
+    <string name="tab_text_3">Fantasy</string>
+    <string name="tab_text_4">Fiction</string>
+    <string name="title_activity_overview">Overview Activity</string>
+</resources>
